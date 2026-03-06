@@ -1,0 +1,1 @@
+Analyze component and refactor for reuse and clarity.

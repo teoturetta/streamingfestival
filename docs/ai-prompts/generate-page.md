@@ -1,0 +1,1 @@
+Read context files and generate a new page following the sitemap and design system.
